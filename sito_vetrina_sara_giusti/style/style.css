@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0 auto;
+    text-align:center;
+}
+
+#bg-nav {
+    background-color: transparent;
+}
+
+#card-chisiamo {
+    border-color:white;
+    margin:0 auto;
+    margin-top:2em;
+    max-width: 95%;
+}
+
+#card-contatti {
+    border-color:white;
+    margin-top: 4em;
+    max-width: 20em;
+}
+
+#card-piscine-laghetto {
+    border-color: transparent;
+    border-radius: 0;
+    background-color: rgb(216, 213, 213);
+}
+
+#card-piscine-laghetto-title {
+    border-radius: 0;
+    color: whitesmoke;
+    
+}
+
+#card-title-contatti {
+    color:grey;
+    font-size: 2em;
+    font-style:italic;
+}
+
+#div-contatti {
+    display:flex;
+    gap: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#div-piscine-laghetto {
+    margin-top: 3em;
+}
+
+#first-footer-bg {
+    background-color: #21081a;
+}
+
+#second-footer-bg {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#img-chisiamo {
+    width: 100%;
+}
+
+#img-contatti {
+    width: 100%;
+}
+
+#img-head {
+    width: 100%;
+}
+
+#img-nav {
+    margin-left:3em;
+    width:14em;
+}
+
+#img-piscine-laghetto {
+    width:100%;
+}
+
+
+#title-chisiamo {
+    font-weight:bold;
+}
+
+.card-piscine-laghetto {
+    border-color: transparent;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 393px;
+    width: 561px;
+}
+
+.img-piscine-laghetto {
+    height: 50vh;
+}
+
+.link-menu {
+    color:rgb(189,189,189);
+    font-size: 1em;
+    margin-left:1.5em;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 393px;
+    width: 561px;
+}
+
+.piscine-laghetto-btn {
+    border-color: gray;
+}
+
+.subtitle-chisiamo {
+    font-weight:bold;
+}
